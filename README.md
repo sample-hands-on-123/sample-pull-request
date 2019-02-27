@@ -1,2 +1,4 @@
-# sample-pull-request
-This project gives experience how operates Pull Request to you.
+# これはなに？
+
+svn から GitHubへ以降したい。
+そのために、触れるリポジトリを用意してみる
